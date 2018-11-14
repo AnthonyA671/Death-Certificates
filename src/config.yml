@@ -1,0 +1,10 @@
+Item:
+   Material: PAPER
+   Name: '&c&lASSASSINATION PROOF'
+   Lore: 
+   - ''
+   - '&7This piece of paper proves that:'
+   - '&6&l%killer &7eliminated &e&l%killed'
+   - ''
+   - '&7Elimination Date: &a%date'
+   Glow: true

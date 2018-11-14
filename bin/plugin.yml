@@ -1,0 +1,7 @@
+name: DeathCertificates
+main: me.norska.DC.Main
+version: 1.0.0
+author: N0RSKA
+commands:
+   spawnkillchief:
+      description: Main Command
